@@ -3,5 +3,45 @@
         "name": "Eggy Car",
         "slug": "eggy-car",
         "image": "/cache/data/image/game/eggy-car/eggy-car-m186x186.webp"
+    },
+    {
+        "name": "Hill Climb Race Egg",
+        "slug": "hill-climb-race-egg",
+        "image": "/cache/data/image/game/hill-climb-race-egg/hill-climb-race-egg-github-m186x186.webp"
+    },
+    {
+        "name": "Hill Climber",
+        "slug": "hill-climber",
+        "image": "/cache/data/image/game/hill-climber/hill-climber-m186x186.webp"
+    },
+    {
+        "name": "Up Hill Racing 2",
+        "slug": "up-hill-racing-2",
+        "image": "/cache/data/image/game/up-hill-racing-2/up-hill-racing-2-m186x186.webp"
+    },
+    {
+        "name": "Bike Jump",
+        "slug": "bike-jump",
+        "image": "/cache/data/image/game/bike-jump/bike-jump-m186x186.webp"
+    },
+    {
+        "name": "Egg Hill Climb",
+        "slug": "egg-hill-climb",
+        "image": "/cache/data/image/game/egg-hill-climb/egg-hill-climb-m186x186.webp"
+    },
+    {
+        "name": "House Of Hazards",
+        "slug": "house-of-hazards",
+        "image": "/cache/data/image/game/house-of-hazards/house-of-hazards-m186x186.webp"
+    },
+    {
+        "name": "Funny Mad Racing",
+        "slug": "funny-mad-racing",
+        "image": "/cache/data/image/game/funny-mad-racing/funny-mad-racing-m186x186.webp"
+    },
+    {
+        "name": "3D Car Simulator",
+        "slug": "3d-car-simulator",
+        "image": "/cache/data/image/game/3d-car-simulator/3d-car-simulator-m186x186.webp"
     }
 ]
